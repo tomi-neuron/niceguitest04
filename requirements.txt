@@ -1,0 +1,5 @@
+gunicorn
+fastapi
+nicegui
+uvicorn
+gradio~=4.19.1
